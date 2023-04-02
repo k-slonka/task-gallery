@@ -14,7 +14,6 @@ const API_URL_PHOTOS =
 export default {
   data() {
     return {
-      acctualUrl: null,
       photos: [],
     };
   },
